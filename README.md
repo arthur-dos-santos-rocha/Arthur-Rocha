@@ -1,6 +1,6 @@
-![Banner do Arthur](./Arthur-profile-banner.svg)
-<h1 align="center">👋 Olá, eu sou Arthur Rocha!</h1>
-
+<p align="center">
+  <img src="./Arthur-profile-banner.svg" alt="Banner Arthur Rocha" width="100%">
+</p>
 
 <div align="center">
 
