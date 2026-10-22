@@ -1,4 +1,4 @@
-
+![Banner do Arthur](./Arthur-profile-banner.svg)
 <h1 align="center">👋 Olá, eu sou Arthur Rocha!</h1>
 
 
